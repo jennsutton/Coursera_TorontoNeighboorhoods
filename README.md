@@ -2,7 +2,9 @@
 
 ## **About The Project**
   Madatory student project for IBM's Applied Data Science Certificate.
-  Toronto Postal Code Data from Wikipedia was scraped using BeautifulSoup. Data was then used to create multiple dataframes and interactive maps.
+  Toronto Postal Code Data from Wikipedia was scraped using BeautifulSoup. Data was then used to create multiple dataframes and basic maps.
+  
+![Sample map of one to the project outputs](torontomap.JPG)
 
 ## **Requirements**
   Python (Pandas, Folium, Geocoder, Nominatim, JSON, CSV, Requests, lxml)
