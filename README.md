@@ -10,13 +10,13 @@
 ## **Requirements**
 -Python (Pandas, Folium, Geocoder, Nominatim, JSON, CSV, Requests, lxml).
 
--FourSquare API access.
+-FourSquare Developer API access.
 
--Beautiful Soup (for scraping HTML/XML).
+-Beautiful Soup 4.40 (for scraping HTML/XML).
 
 ## **Instructions**
 -All three parts of the project are included in the TorontoPOSTALCODES document.
 
--File needed is Geospatial_Coordinates.csv (included in this repository).
+-File needed is Geospatial_Coordinates.csv (which can be found in this repository).
 
 
