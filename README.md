@@ -1,7 +1,4 @@
-# Coursera_Capstone
-
-## **Updates**
-  04/05/2020- Uploaded the TorontoFINAL file for the course.
+# Coursera - Toronto Neighbourhoods Project
 
 ## **About The Project**
   Madatory student project for IBM's Applied Data Science Certificate.
@@ -14,4 +11,6 @@
 
 ## **Instructions**
 All three parts of the project are included in the TorontoPOSTALCODES document.
-Files needed are 
+File needed is Geospatial_Coordinates.csv (included in this repository)
+
+
